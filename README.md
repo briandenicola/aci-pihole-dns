@@ -13,7 +13,7 @@ az deployment group create --name external --resource-group Pihole_RG --template
 ```
 cd infrastructure 
 az group create --name Pihole_RG --location southcentralus
-az deployment group create --name external --resource-group Pihole_RG --template-file=azuredeploy.internal.json --parameters @azuredeploy.parameters.json
+az deployment group create --name internal --resource-group Pihole_RG --template-file=azuredeploy.internal.json --parameters @azuredeploy.parameters.json
 ```
 
 #Note:
