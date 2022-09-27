@@ -69,8 +69,7 @@
                             "port": 53
                         }
                     ],
-                    "type": "Private",
-                    "dnsNameLabelReusePolicy": "Unsecure"
+                    "type": "Private"
                 },
                 "osType": "Linux",
                 "subnetIds": [

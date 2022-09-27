@@ -69,10 +69,9 @@
                             "port": 53
                         }
                     ],
-                    "type": "Public",
-                    "dnsNameLabelReusePolicy": "Unsecure"
+                    "type": "Public"
                 },
-                "osType": "Linux",
+                "osType": "Linux"
             }
         }
     ],
