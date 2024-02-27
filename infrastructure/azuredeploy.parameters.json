@@ -6,7 +6,7 @@
             "value": "pihole-dns"
         },
         "pihole_container": {
-            "value": "pihole/pihole:2022.05"
+            "value": "pihole/pihole:2023.03.1"
         },
         "pihole_subnet": {
             "value": "DNS"
